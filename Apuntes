@@ -21,7 +21,7 @@ _________________________________________________________________
 
 6. Abrir terminal de Visual Studio Code
 7. Ingresar comando #1, usuario:
-   git config --global user.name "nombre de usuario de Github"
+   git config --global user.name "### nombre de usuario de Github ###"
 8. Ingresar comando #2, correo:
    git config --global user.email "correo con el que se registró en Github"
 9. Ingresar comando #3, carpeta de monitoreo de cambios:
