@@ -52,3 +52,6 @@ Copiar comandos "…or push an existing repository from the command line"
                  Connect repos        ► git remote add origin https://github.com/rafaelvcyber/git-repository.git
                  Rename Main Branch   ► git branch -M main
                  Envío de información ► git push -u origin main
+                 y actualizaciónes
+                 locales hacia 
+                 repositorio
