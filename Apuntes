@@ -23,7 +23,7 @@ _________________________________________________________________
 7. Ingresar comando #1, usuario:
    git config --global user.name "### nombre de usuario de Github ###"
 8. Ingresar comando #2, correo:
-   git config --global user.email "correo con el que se registró en Github"
+   git config --global user.email "## correo con el que se registró en Github ##"
 9. Ingresar comando #3, carpeta de monitoreo de cambios:
    git init
 
@@ -32,6 +32,19 @@ ______________________________________
 git status = ver estado del documento
 git add ### insertar nombre del archivo ### = agregar archivo específico a monitorear
 git add . = agregar todo los documentos del proyecto a monitorear
-git commit -m "# Comentario #" = Agregar comentario sobre la actualización
+git commit -m "### Comentario ###" = Agregar comentario sobre la actualización
 git log = Ver todos los commits agregados
 q = salir de la ventana de commits
+
+▓▓▓▓▓▓▓▓▓▓▓ Conexión del repositorio local a repositorio remoto de GitHub ▓▓▓▓▓▓▓▓▓▓▓▓
+______________________________________________________________________________________
+GitHub
+
+New Repository
+Escoger usuario
+Ingresar Repository Name
+Create Repository
+Copiar comandos "…or push an existing repository from the command line"
+                 Connect repos        ► git remote add origin https://github.com/rafaelvcyber/git-repository.git
+                 Rename Main Branch   ► git branch -M main
+                 Envío de información ► git push -u origin main
