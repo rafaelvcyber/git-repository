@@ -1,0 +1,37 @@
+▓▓▓▓▓▓▓▓▓▓▓ Herramientas a instalar ▓▓▓▓▓▓▓▓▓▓▓
+_______________________________________________
+
+1. Descarga e instalación de Visual Studio Code
+https://code.visualstudio.com/
+
+2. Apertura de cuenta de GitHub
+https://github.com/
+
+3. Instalación de Git
+https://git-scm.com/install/windows
+
+▓▓▓▓▓▓▓▓▓▓▓  Agregar carpeta de repositorios ▓▓▓▓▓▓▓▓▓▓▓
+________________________________________________________
+
+4. Crear carpeta en PC para guardar repositorios
+5. Abrir carpeta de repositorios en Visual Studio Code
+
+▓▓▓▓▓▓▓▓▓▓▓ Conectar cuenta de GitHub a Visual Studio ▓▓▓▓▓▓▓▓▓▓▓
+_________________________________________________________________
+
+6. Abrir terminal de Visual Studio Code
+7. Ingresar comando #1, usuario:
+   git config --global user.name "nombre de usuario de Github"
+8. Ingresar comando #2, correo:
+   git config --global user.email "correo con el que se registró en Github"
+9. Ingresar comando #3, carpeta de monitoreo de cambios:
+   git init
+
+▓▓▓▓▓▓▓▓▓▓▓ Otros comandos ▓▓▓▓▓▓▓▓▓▓▓
+______________________________________
+git status = ver estado del documento
+git add ### insertar nombre del archivo ### = agregar archivo específico a monitorear
+git add . = agregar todo los documentos del proyecto a monitorear
+git commit -m "# Comentario #" = Agregar comentario sobre la actualización
+git log = Ver todos los commits agregados
+q = salir de la ventana de commits
