@@ -22,6 +22,11 @@ ___________________________________________
 4. Crear carpeta en PC para guardar repositorios
 5. Abrir carpeta de repositorios en 
    Visual Studio Code
+
+-----------SI ES REPOSITORIO CLONADO-----------------------
+abrir la carpeta creada con GitBash e insertar este comando:
+git clone #### insertar URL del repositorio ####
+
  
 ▓▓▓▓▓▓▓▓▓▓▓ Conectar cuenta de GitHub ▓▓▓▓▓▓▓▓▓▓▓
                     a Visual Studio 
